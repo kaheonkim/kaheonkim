@@ -1,10 +1,8 @@
 
 ### Hi there 👋
 
-<!--
-**kaheonkim/kaheonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I'm interested in Mathematical Data-drive Model for learning governing dynamics.
 - 🙋‍♂️ I'm an undergraduate student in UNIST, majoring in mathematics and minoring in indeustrial engineering.
