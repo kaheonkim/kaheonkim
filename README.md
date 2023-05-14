@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I'm Kaheon Kim and I'm going to gain my bachelor's degree in mathematical Science and Industrial Engineering at UNIST in this August. 
-In the same period.
+
 In the same period, I will matriculate at the University of Notre Dame to pursue my Ph.D in ACMS(Applied Computational Math and Statistics), specifically in Statistics.
 
 Here are some ideas to get you started:
