@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm interested in Mathematical Data-driven Model for learning dynamical systems.
-- 👨‍🎓 I'm going to gain my bachelor's degree in mathematical Science and Industrial Engineering at UNIST in this August.
-- 🙋‍♂️ I will matriculate at the University of Notre Dame to pursue my Ph.D in Statistics in this August.
-- 📫 How to reach me: kdkam12@unist.ac.kr
+- 🔭 I'm interested in analyzing complex data in a statistical views.
+- 👨‍🎓 I did my bachelor's degree in mathematical Science and Industrial Engineering at UNIST from 2017 to 2023.
+- 🙋‍♂️ I am currently a 1st year statistics Ph.D student at the University of Notre Dame.
+- 📫 How to reach me: kkim26@nd.edu
 - 🎹 In my free time, I enjoy taking a walk and playing piano.
